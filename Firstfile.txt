@@ -1,5 +1,10 @@
 I am developer1 
 I am developer 2 and added some data
 I am developer 3 and work on the tutorils
+<<<<<<< HEAD
 HiI am Danish
 Hi I m Deepak
+=======
+I...........................
+D.............................
+>>>>>>> 81ea5b8f8ae417c9a9426eeb096d1827735939f4
